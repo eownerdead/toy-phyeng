@@ -1,0 +1,4 @@
+/.direnv
+/result
+.mypy_cache
+*.pyc
